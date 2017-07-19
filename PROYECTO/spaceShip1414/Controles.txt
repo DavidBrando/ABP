@@ -1,0 +1,13 @@
+W -> arriba
+A -> izquierda
+S -> abajo
+D -> derecha
+Click izq -> disparar
+Mover ratón -> rotar personaje
+
+1 -> cambiar pistola (arma por defecto cuando ejecutas)
+2 -> cambiar fusil
+3 -> cambiar escopeta
+
+E -> Interactuar con las puertas cerradas y terminales
+Q -> Usar botiquin

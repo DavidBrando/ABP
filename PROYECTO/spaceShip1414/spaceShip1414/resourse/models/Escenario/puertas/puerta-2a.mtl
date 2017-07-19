@@ -1,0 +1,138 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 5-d.jpg
+bump 5-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 5-s.jpg
+Ns 18.00
+newmtl pasted__phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 5-d.jpg
+bump 5-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 5-s.jpg
+Ns 18.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1-d.jpg
+bump 1-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 1-s.jpg
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2-d.jpg
+bump 2-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 2-s.jpg
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3-d.jpg
+bump 3-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 3-s.jpg
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4-d.jpg
+bump 4-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 4-s.jpg
+Ns 18.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 5-d.jpg
+bump 5-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 5-s.jpg
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6-d.jpg
+bump 6-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 6-s.jpg
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 7-d.jpg
+bump 7-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 7-s.jpg
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 8-d.jpg
+bump 8-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 8-s.jpg
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 9-d.jpg
+bump 9-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 9-s.jpg
+Ns 18.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10-d.jpg
+bump 10-n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 10-s.jpg
+Ns 18.00

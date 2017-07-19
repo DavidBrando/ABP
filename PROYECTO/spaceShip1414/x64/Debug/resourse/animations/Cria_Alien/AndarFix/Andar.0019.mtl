@@ -1,0 +1,56 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pCube14SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alien_02.jpg
+bump alien_02_norm.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks alien_02_spec.jpg
+Ns 18.00
+newmtl pCube14SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alien_08.jpg
+bump alien_08_norm.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks alien_08_spec.jpg
+Ns 18.00
+newmtl pCube14SG7
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pCube14SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alien_06.jpg
+bump alien_06_norm.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks alien_06_spec2.jpg
+Ns 18.00
+newmtl pCube14SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alien_15.jpg
+bump alien_15_norm.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks alien_15_spec.jpg
+Ns 18.00

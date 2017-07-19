@@ -1,0 +1,8 @@
+Ajustes Destroyed
+Menu Destroyed
+Jugando Destroyed
+Salida Destroyed
+MaquinaEstadosJuego Destroyed
+Perdido Destroyed
+Victoria Destroyed
+Gracias por jugar a SpaceShip 1414
