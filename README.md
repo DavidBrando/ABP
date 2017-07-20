@@ -1,4 +1,9 @@
 #PROYECTO ABP 2016 ITINERARIO VIDEOJUEGOS
+
+
+La metodología ABP es un sistema creado en el Grado de Ingeneria Multimedia para acercar a los alumnos del último curso a como gestionar un proyecto y sacarlo adelante lo más parecido posible con una empresa. Con esta metodología aprendemos a gestionar los recursos humanos, organizarción de prioridades del proyecto y a usar nuevas tecnologías
+
+
   
 ## 1. INTRODUCCIÓN.
 
